@@ -12,4 +12,4 @@ Este projeto foi desenvolvido utilizando:
 3. googlechart-component sugerido em (http://stackoverflow.com/questions/37542408/angular2-google-charts-how-to-integrate-google-charts-in-angular2) 
 
 ### Exemplo de saída:
-    ![alt text](./imgs/mt06.png)
+![alt text](./imgs/mt06.png)
