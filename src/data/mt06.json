@@ -1,0 +1,218 @@
+[
+    {
+        "machineId": "Machine 3",
+        "jobId": "1",
+        "start": 0,
+        "end" :1
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "1",
+        "start": 1,
+        "end" :4
+    },
+    {
+        "machineId": "Machine 2",
+        "jobId": "1",
+        "start": 4,
+        "end" :10
+    },
+    {
+        "machineId": "Machine 4",
+        "jobId": "1",
+        "start": 10,
+        "end" :17
+    },
+    {
+        "machineId": "Machine 4",
+        "jobId": "1",
+        "start": 17,
+        "end" :20
+    },
+    {
+        "machineId": "Machine 5",
+        "jobId": "1",
+        "start": 20,
+        "end" :26
+    },
+    {
+        "machineId": "Machine 2",
+        "jobId": "2",
+        "start": 10,
+        "end" :18
+    },
+    {
+        "machineId": "Machine 3",
+        "jobId": "2",
+        "start": 18,
+        "end" :23
+    },
+    {
+        "machineId": "Machine 5",
+        "jobId": "2",
+        "start": 26,
+        "end" :36
+    },
+    {
+        "machineId": "Machine 6",
+        "jobId": "2",
+        "start": 36,
+        "end" :46
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "2",
+        "start": 46,
+        "end" :56
+    },
+    {
+        "machineId": "Machine 4",
+        "jobId": "2",
+        "start": 56,
+        "end" :60
+    },
+    {
+        "machineId": "Machine 6",
+        "jobId": "3",
+        "start": 46,
+        "end" :51
+    },
+    {
+        "machineId": "Machine 4",
+        "jobId": "3",
+        "start": 60,
+        "end" :64
+    },
+    {
+        "machineId": "Machine 6",
+        "jobId": "3",
+        "start": 64,
+        "end" :72
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "3",
+        "start": 72,
+        "end" :81
+    },
+    {
+        "machineId": "Machine 6",
+        "jobId": "3",
+        "start": 81,
+        "end" :82
+    },
+    {
+        "machineId": "Machine 5",
+        "jobId": "3",
+        "start": 82,
+        "end" :89
+    },
+    {
+        "machineId": "Machine 2",
+        "jobId": "4",
+        "start": 18,
+        "end" :23
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "4",
+        "start": 56,
+        "end" :61
+    },
+    {
+        "machineId": "Machine 3",
+        "jobId": "4",
+        "start": 61,
+        "end" :66
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "4",
+        "start": 81,
+        "end" :84
+    },
+    {
+        "machineId": "Machine 5",
+        "jobId": "4",
+        "start": 89,
+        "end" :97
+    },
+    {
+        "machineId": "Machine 6",
+        "jobId": "4",
+        "start": 97,
+        "end" :106
+    },
+    {
+        "machineId": "Machine 3",
+        "jobId": "5",
+        "start": 66,
+        "end" :75
+    },
+    {
+        "machineId": "Machine 2",
+        "jobId": "5",
+        "start": 75,
+        "end" :78
+    },
+    {
+        "machineId": "Machine 5",
+        "jobId": "5",
+        "start": 97,
+        "end" :102
+    },
+    {
+        "machineId": "Machine 2",
+        "jobId": "5",
+        "start": 102,
+        "end" :106
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "5",
+        "start": 106,
+        "end" :109
+    },
+    {
+        "machineId": "Machine 4",
+        "jobId": "5",
+        "start": 109,
+        "end" :110
+    },
+    {
+        "machineId": "Machine 2",
+        "jobId": "6",
+        "start": 106,
+        "end" :109
+    },
+    {
+        "machineId": "Machine 4",
+        "jobId": "6",
+        "start": 110,
+        "end" :113
+    },
+    {
+        "machineId": "Machine 6",
+        "jobId": "6",
+        "start": 113,
+        "end" :122
+    },
+    {
+        "machineId": "Machine 1",
+        "jobId": "6",
+        "start": 122,
+        "end" :132
+    },
+    {
+        "machineId": "Machine 5",
+        "jobId": "6",
+        "start": 132,
+        "end" :136
+    },
+    {
+        "machineId": "Machine 3",
+        "jobId": "6",
+        "start": 136,
+        "end" :137
+    }
+]
